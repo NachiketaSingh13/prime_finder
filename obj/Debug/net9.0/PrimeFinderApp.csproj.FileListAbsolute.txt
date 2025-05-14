@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\bin\Debug\net9.0\PrimeFinderApp.exe
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\bin\Debug\net9.0\PrimeFinderApp.deps.json
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\bin\Debug\net9.0\PrimeFinderApp.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\bin\Debug\net9.0\PrimeFinderApp.dll
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\bin\Debug\net9.0\PrimeFinderApp.pdb
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\obj\Debug\net9.0\PrimeFinderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\obj\Debug\net9.0\PrimeFinderApp.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\obj\Debug\net9.0\PrimeFinderApp.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\obj\Debug\net9.0\PrimeFinderApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\obj\Debug\net9.0\PrimeFinderApp.dll
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\obj\Debug\net9.0\refint\PrimeFinderApp.dll
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\obj\Debug\net9.0\PrimeFinderApp.pdb
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\obj\Debug\net9.0\PrimeFinderApp.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\MyFirstApp\PrimeFinderApp\obj\Debug\net9.0\ref\PrimeFinderApp.dll
